@@ -5,7 +5,7 @@ Love u JACQUES &#128420;
 
 
 ---
-## Directories
+## Directories for three.js formation
 
 | Lessons                | Github Page                                                                                           |
 |------------------------|-------------------------------------------------------------------------------------------------------|
@@ -13,3 +13,9 @@ Love u JACQUES &#128420;
 | 05 - Transform objects | [lessons/03-basic-scene](https://paulbouvignies.github.io/threeJS/lessons/05-transform-objects/dist/) |
 | 06 - Animations        | [lessons/06-animations](https://paulbouvignies.github.io/threeJS/lessons/06-animations/dist)          |
 | 07 - Camera            | [lessons/06-camera](https://paulbouvignies.github.io/threeJS/lessons/07-camera/dist)                  |
+
+---
+## Directories for three.js experimentations
+
+| Title                  | Github Page                                                                                           |
+|------------------------|-------------------------------------------------------------------------------------------------------|
